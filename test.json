@@ -8,14 +8,14 @@
                 "status": "GOOD",
                 "description": "overall the market was in upward trend."
             },
-            "11" [
+            "11": [
                 {
                     "entity":"GOOGL",
                     "price": 2155.85,
                     "time": 1653603843766
                 }
             ],
-            "22" [
+            "22": [
                 {
                     "entity":"GOOGL",
                     "price": 2155.85,
