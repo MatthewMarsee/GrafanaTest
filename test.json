@@ -1,14 +1,26 @@
 {
-        "sta":[
-                "11":{
-                        "entity":"GOOGL",
-                        "price": 2155.85,
-                        "time": 165360384376
-                },
-                "21":{
-                        "entity":"AAPL",
-                        "price": 143.78,
-                        "time":1653603943766
+        "meta": {
+            "time_taken" : 300,
+            "total_records": 2
+        },
+        "stations": {
+            "summary": {
+                "status": "GOOD",
+                "description": "overall the market was in upward trend."
+            },
+            "11" [
+                {
+                    "entity":"GOOGL",
+                    "price": 2155.85,
+                    "time": 1653603843766
                 }
-        ]
-}
+            ],
+            "22" [
+                {
+                    "entity":"GOOGL",
+                    "price": 2155.85,
+                    "time": 1653603843766
+                }
+            ]
+        }
+    }
